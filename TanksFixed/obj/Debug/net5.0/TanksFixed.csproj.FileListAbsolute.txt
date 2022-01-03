@@ -1,0 +1,16 @@
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\obj\Debug\net5.0\TanksFixed.csprojAssemblyReference.cache
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\obj\Debug\net5.0\TanksFixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\obj\Debug\net5.0\TanksFixed.AssemblyInfoInputs.cache
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\obj\Debug\net5.0\TanksFixed.AssemblyInfo.cs
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\obj\Debug\net5.0\TanksFixed.csproj.CoreCompileInputs.cache
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\bin\Debug\net5.0\TanksFixed.exe
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\bin\Debug\net5.0\TanksFixed.deps.json
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\bin\Debug\net5.0\TanksFixed.runtimeconfig.json
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\bin\Debug\net5.0\TanksFixed.runtimeconfig.dev.json
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\bin\Debug\net5.0\TanksFixed.dll
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\bin\Debug\net5.0\ref\TanksFixed.dll
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\bin\Debug\net5.0\TanksFixed.pdb
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\obj\Debug\net5.0\TanksFixed.dll
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\obj\Debug\net5.0\ref\TanksFixed.dll
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\obj\Debug\net5.0\TanksFixed.pdb
+C:\Users\akita\source\repos\TanksFixed\TanksFixed\obj\Debug\net5.0\TanksFixed.genruntimeconfig.cache
